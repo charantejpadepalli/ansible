@@ -1,0 +1,45 @@
+- name: "charan"
+  dob: "18-12-1999"
+  age: 25
+  addresses:
+  - doorNo: 18/22
+    street: "Kondapur"
+    city: "Hyderabad"
+    state: "Telangana"
+    pincode: 500084
+    type: "permanent"
+
+  - doorNo: 45/12
+    street: "MG Road" 
+    city: "Bangalore"
+    state: "Karnataka"
+    pincode: 560001
+    type: "current"
+  skills:
+  - java
+  - python   
+  - ansible
+
+- name: "Jyoo"
+  dob: "17-05-1998"
+  age: 26
+  addresses:
+  - doorNo: 18/22
+    street: "Kondapur"
+    city: "Hyderabad"
+    state: "Telangana"
+    pincode: 500084
+    type: "permanent"
+
+  - doorNo: 45/12
+    street: "MG Road" 
+    city: "Bangalore"
+    state: "Karnataka"
+    pincode: 560001
+    type: "current"
+  skills:
+  - java
+  - python
+  - ansible
+
+  

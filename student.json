@@ -1,0 +1,21 @@
+{
+    "name": "Charan",
+    "dob": "18-12-1999",
+    "address": [
+        {
+            "type": "current",
+            "Door No": "12/4",
+            "Street": "MG Road",
+            "City": "Bangalore",
+            "pin": "560001"
+        },
+        {
+            "type": "current",
+            "Door No": "12/4",
+            "Street": "MG Road",
+            "City": "Bangalore",
+            "pin": "560001"
+        }
+    ],
+    "skills": ["Java","Python","Ansible"]
+}

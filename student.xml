@@ -1,0 +1,52 @@
+<Students>
+    <Student>
+        <Name>Charan</Name>
+        <DOB>18-12-1999</DOB>
+        <Age>25</Age>
+        <Addresses>
+            <Address type="permanent">
+                <Street>BTR Colony</Street>
+                <City>Tirupati</City>
+                <State>Andhra Pradesh</State>
+                <Zip>517507</Zip>
+            </Address>
+            <Address type="current">
+                <Street>Kondapur</Street>
+                <City>Hyderabad</City>
+                <State>Telangana</State>
+                <Zip>500084</Zip>
+            </Address>
+        </Addresses>
+
+        <Skills>
+            <Skill>Java</Skill>
+            <Skill>Cloud</Skill>
+            <Skill>Devops</Skill>
+        </Skills>
+    </Student>
+    <Student>
+        <Name>Jyoo</Name>
+        <DOB>17-05-1998</DOB>
+        <Age>26</Age>
+        <Addresses>
+            <Address type="permanent">
+                <Street>BTR Colony</Street>
+                <City>Tirupati</City>
+                <State>Andhra Pradesh</State>
+                <Zip>517507</Zip>
+            </Address>
+            <Address type="current">
+                <Street>Kondapur</Street>
+                <City>Hyderabad</City>
+                <State>Telangana</State>
+                <Zip>500084</Zip>
+            </Address>
+        </Addresses>
+
+        <Skills>
+            <Skill>Java</Skill>
+            <Skill>Cloud</Skill>
+            <Skill>Devops</Skill>
+        </Skills>
+    </Student>
+</Students>

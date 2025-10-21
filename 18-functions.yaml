@@ -17,7 +17,7 @@
   tasks:
   - name: default variables
     ansible.builtin.debug:
-      msg: "Hello, {{ name | defult('Charan')}}"
+      msg: "Hello, {{ name | default('Charan')}}"
 
   - name: convert string to list
     ansible.builtin.debug:

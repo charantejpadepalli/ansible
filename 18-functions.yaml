@@ -1,6 +1,6 @@
 - name: functions
   hosts: local
-  connections: local
+  connection: local
   vars:
     technologies: Devops, Cloud, Shell, Ansible
     name: "Charan Tej P"

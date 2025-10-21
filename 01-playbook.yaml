@@ -1,6 +1,6 @@
-- name: "Ping the server"
+- name: "ping the server"
   hosts: local
   connection: local
   tasks:
-  - name: Ping
+  - name: ping
     ansible.builtin.Ping:

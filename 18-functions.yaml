@@ -67,7 +67,7 @@
 
   - name: print command_output
     ansible.builtin.debug:
-      msg:"{{ command_output }}"
+      msg: "{{ command_output }}"
 
   - name: data_output
     ansible.builtin.command: ls -ltrh

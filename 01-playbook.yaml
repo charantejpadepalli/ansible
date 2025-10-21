@@ -1,6 +1,6 @@
 - name: "ping the server"
-  hosts: local
-  connection: local
+  hosts: frontned
+  #connection: local
   tasks:
   - name: ping
     ansible.builtin.Ping:
